@@ -11,11 +11,13 @@ This sample uses the Gradle build system. To build this project, use the "gradle
     Android Build Tools v23.0.2
     Android Support Repository v23.3.0
     
-*Learning
-    Importing an existing project
-    Adding labels for activities
-    On click listeners - onclick method
-    Starting one activity from other. Explicit intents
+*Learnings
+
+    Importing an existing project,
+    Adding labels for activities,
+    On click listeners - onclick method,
+    Starting one activity from other
+    Explicit intents
     setting themes and colors of various activities
     Arrays, Arraylist
     Adding the child views to rootviews
@@ -30,8 +32,9 @@ This sample uses the Gradle build system. To build this project, use the "gradle
         Using conditional logic to show or hide view
         view visibility
         Setting the color with ContextCompat
-
-   Adding Audio
+        
+     
+    Adding Audio
 
         Media player class
         Starting and pausing audios
